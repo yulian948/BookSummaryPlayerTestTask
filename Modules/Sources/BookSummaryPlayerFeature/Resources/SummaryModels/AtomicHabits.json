@@ -1,0 +1,33 @@
+{
+    "id": 1,
+    "title": "Atomic Habits",
+    "bookCover": "AtomicHabitsCover.webp",
+    "chapters": [
+        {
+            "fileName": "AtomicHabitsChapter1",
+            "fileType": "mp3",
+            "keyPoint": "Why small habits can make a big difference"
+        },
+        {
+            "fileName": "AtomicHabitsChapter2",
+            "fileType": "mp3",
+            "keyPoint": "How habits are formed"
+        },
+        {
+            "fileName": "AtomicHabitsChapter3",
+            "fileType": "mp3",
+            "keyPoint": "Make it obvious"
+        },
+        {
+            "fileName": "AtomicHabitsChapter4",
+            "fileType": "mp3",
+            "keyPoint": "Make it attractive"
+        },
+        {
+            "fileName": "AtomicHabitsChapter5",
+            "fileType": "mp3",
+            "keyPoint": "Make it easy"
+        }
+    ]
+}
+
